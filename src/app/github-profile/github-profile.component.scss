@@ -1,0 +1,47 @@
+#name{
+    font-family: 'Audiowide';
+}
+
+.side-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+}
+
+.social-icons{
+    padding: 15px;
+}
+
+.social-icons i{
+    padding: 25px;
+}
+
+button{
+    border-radius: 10px;
+}
+
+a{
+    color: white;
+    font-size: 13px;
+}
+
+a:hover{
+    color: cyan;
+}
+
+::placeholder{
+    color: cyan;
+    letter-spacing: 2px;
+}
+
+input[type="text"]{
+    color: white;
+    letter-spacing: 2px;
+}
+
+.note{
+    background: rgb(0, 255, 255);
+    color: black;
+}
