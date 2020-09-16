@@ -7,7 +7,7 @@ The application will allow users to search for github users and repositories and
 
 # Setup Instructions:
 
-Click this link to launch the app: https://abdihakim-muhumed.github.io/GitSearcher/
+Click this link to launch the app: https://abdihakim-muhumed.github.io/Git-Searcher/
 
 # Technologies
  1.Angular
